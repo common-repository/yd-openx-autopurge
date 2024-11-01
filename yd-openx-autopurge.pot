@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/yd-recent-posts-widget\n"
+"POT-Creation-Date: 2009-04-08 23:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: yd-openx-autopurge.php:72
+msgid "YD OpenX Autopurge"
+msgstr ""
+
+#: yd-openx-autopurge.php:74
+msgid "YDOpenX"
+msgstr ""
+
+#: yd-openx-autopurge.php:88
+msgid "Server time is now:"
+msgstr ""
+
+#: yd-openx-autopurge.php:89 yd-openx-autopurge.php:91
+#: yd-openx-autopurge.php:94
+msgid "j F y, G:i:s"
+msgstr ""
+
+#: yd-openx-autopurge.php:90
+msgid "The auto-purge is scheduled to run next around:"
+msgstr ""
+
+#: yd-openx-autopurge.php:93
+msgid "The purge was last performed on:"
+msgstr ""
+
+#: yd-openx-autopurge.php:97
+msgid "Action:"
+msgstr ""
+
+#: yd-openx-autopurge.php:98
+msgid "I should now"
+msgstr ""
+
+#: yd-openx-autopurge.php:99 yd-openx-autopurge.php:172
+msgid "Purge now"
+msgstr ""
+
+#: yd-openx-autopurge.php:102
+msgid "OpenX data has been purged"
+msgstr ""
+
+#: yd-openx-autopurge.php:103 yd-openx-autopurge.php:171
+msgid "Update options"
+msgstr ""
+
+#: yd-openx-autopurge.php:106
+msgid "Database connexion OK! - Options updated OK!"
+msgstr ""
+
+#: yd-openx-autopurge.php:110
+msgid "Could not connect to database, please check your settings."
+msgstr ""
+
+#: yd-openx-autopurge.php:115
+msgid "Error: Unknown action!"
+msgstr ""
+
+#: yd-openx-autopurge.php:121
+msgid "Welcome to YD OpenX Autopurge Admin Page."
+msgstr ""
+
+#: yd-openx-autopurge.php:131
+msgid "Nb. of days to keep:"
+msgstr ""
+
+#: yd-openx-autopurge.php:134
+msgid "Server name:"
+msgstr ""
+
+#: yd-openx-autopurge.php:137
+msgid "Database name:"
+msgstr ""
+
+#: yd-openx-autopurge.php:140
+msgid "Database login:"
+msgstr ""
+
+#: yd-openx-autopurge.php:143
+msgid "Database password:"
+msgstr ""
+
+#: yd-openx-autopurge.php:146
+msgid "Scheduled daily auto-purge time (hh:mm:ss):"
+msgstr ""
+
+#: yd-openx-autopurge.php:195
+msgid "Total OpenX database size (bytes):"
+msgstr ""
